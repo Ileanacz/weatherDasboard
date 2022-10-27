@@ -1,0 +1,15 @@
+.body{
+    color: aqua;
+}
+
+nav{
+    background-color: rgb(30, 30, 157);
+    color: white;
+    align-items: center;
+    text-align: center;
+    font-size: 36px;
+}
+
+.search-header{
+    font-size: 25px;
+}
